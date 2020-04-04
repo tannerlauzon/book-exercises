@@ -1,6 +1,10 @@
-# Exercise 1
+# Ch 4 Exercise 1 Block quote
+
 Using the text-edit of your choice (e.g., Atom), create a new file called `README.md`. Alternatively, you may clone this repository and edit this file.
 
 In your `README.md` document, put your favorite quote in a block quote, and provide a link to a website that provides additional information about the quote.
 
 Note that you can preview this Markdown in Atom to make sure it works correctly.
+
+> _"If It doesn't challenge you it won't change you"_ -Fred Devito
+[source](https://wearesocialstarters.wordpress.com/2015/04/12/if-it-doesnt-challenge-you-it-wont-change-you/)
