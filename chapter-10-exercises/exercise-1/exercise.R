@@ -1,4 +1,4 @@
-# Exercise 1: creating data frames
+# Chapter 10 Exercise 1: creating data frames
 
 # Create a vector of the number of points the Seahawks scored in the first 4 games
 # of the season (google "Seahawks" for the scores!)
